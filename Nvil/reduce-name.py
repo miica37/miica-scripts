@@ -1,3 +1,4 @@
+import pymel.core as pm
 
 sels = pm.selected()
 
