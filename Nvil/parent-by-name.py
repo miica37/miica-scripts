@@ -1,3 +1,4 @@
+import pymel.core as pm
 
 def parent_by_name(obj):
 	name = obj.nodeName()
